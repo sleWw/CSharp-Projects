@@ -1,0 +1,16 @@
+D:\01 C# Projects\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.exe
+D:\01 C# Projects\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.deps.json
+D:\01 C# Projects\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.runtimeconfig.json
+D:\01 C# Projects\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.runtimeconfig.dev.json
+D:\01 C# Projects\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.dll
+D:\01 C# Projects\CSharp-Projects\mainSource\bin\Debug\net5.0\ref\mainSource.dll
+D:\01 C# Projects\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.pdb
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.csprojAssemblyReference.cache
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.AssemblyInfoInputs.cache
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.AssemblyInfo.cs
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.csproj.CoreCompileInputs.cache
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.dll
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\ref\mainSource.dll
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.pdb
+D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.genruntimeconfig.cache
