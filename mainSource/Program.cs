@@ -89,6 +89,9 @@ namespace mainSource
 
             Console.WriteLine("Repository Test From Laptop");
             Console.WriteLine("Commit From Laptop");
+
+            Console.WriteLine("Repository Test from PC");
+            Console.WriteLine("Repository Test Complete");
             
         //WORKING SPACE=======================================================================
             end:
