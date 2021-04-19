@@ -10,8 +10,8 @@ namespace mainSource
             Console.Title = "ConsoleProject";
             //Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WindowHeight = 35;
-            Console.WindowWidth = 150;
+            //Console.WindowHeight = 35;
+            //Console.WindowWidth = 150;
         }
         public static bool EndingCode()
         {
@@ -86,6 +86,9 @@ namespace mainSource
             {
                 Console.WriteLine(factorArray[i]);
             }
+
+            Console.WriteLine("Repository Test From Laptop");
+            Console.WriteLine("Commit From Laptop");
             
         //WORKING SPACE=======================================================================
             end:

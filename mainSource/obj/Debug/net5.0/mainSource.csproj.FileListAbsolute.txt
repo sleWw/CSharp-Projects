@@ -14,3 +14,19 @@ D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.dll
 D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\ref\mainSource.dll
 D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.pdb
 D:\01 C# Projects\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.genruntimeconfig.cache
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.exe
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.deps.json
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.runtimeconfig.json
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.runtimeconfig.dev.json
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.dll
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\bin\Debug\net5.0\ref\mainSource.dll
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\bin\Debug\net5.0\mainSource.pdb
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.csprojAssemblyReference.cache
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.AssemblyInfoInputs.cache
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.AssemblyInfo.cs
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.csproj.CoreCompileInputs.cache
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.dll
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\ref\mainSource.dll
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.pdb
+C:\Users\snipe\Documents\01 REPOSITORIES\CSharp-Projects\mainSource\obj\Debug\net5.0\mainSource.genruntimeconfig.cache

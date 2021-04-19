@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\01 C# Projects\\CSharp-Projects\\mainSource\\mainSource.csproj": {}
+    "C:\\Users\\snipe\\Documents\\01 REPOSITORIES\\CSharp-Projects\\mainSource\\mainSource.csproj": {}
   },
   "projects": {
-    "D:\\01 C# Projects\\CSharp-Projects\\mainSource\\mainSource.csproj": {
+    "C:\\Users\\snipe\\Documents\\01 REPOSITORIES\\CSharp-Projects\\mainSource\\mainSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01 C# Projects\\CSharp-Projects\\mainSource\\mainSource.csproj",
+        "projectUniqueName": "C:\\Users\\snipe\\Documents\\01 REPOSITORIES\\CSharp-Projects\\mainSource\\mainSource.csproj",
         "projectName": "mainSource",
-        "projectPath": "D:\\01 C# Projects\\CSharp-Projects\\mainSource\\mainSource.csproj",
+        "projectPath": "C:\\Users\\snipe\\Documents\\01 REPOSITORIES\\CSharp-Projects\\mainSource\\mainSource.csproj",
         "packagesPath": "C:\\Users\\snipe\\.nuget\\packages\\",
-        "outputPath": "D:\\01 C# Projects\\CSharp-Projects\\mainSource\\obj\\",
+        "outputPath": "C:\\Users\\snipe\\Documents\\01 REPOSITORIES\\CSharp-Projects\\mainSource\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
