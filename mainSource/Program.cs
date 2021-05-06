@@ -25,6 +25,32 @@ namespace mainSource
             } else returnTo = true;
             return returnTo;
         } 
+        public static double UnitRate (double firstNumber, double secondNumber)
+        {
+            double result;
+            result = firstNumber / secondNumber;
+            return result;
+        }
+        public static double UnitPrice (double price, double quantity)
+        {
+            double result;
+            result = price / quantity;
+            return result;
+        }
+        public static double FindQuantity(double firstNumurator, double firstDenominator, double secondDenominator)
+        {
+            double multipliedNumbers = firstNumurator * secondDenominator;
+            double unknownQuantity = multipliedNumbers / firstDenominator;
+            return unknownQuantity;
+        }
+
+        public static int FindGreatestFactor(int number)
+        {
+
+            int greatestFactor = 5;
+            return greatestFactor;
+        }
+
         public static string[] FindFactors(int findFactor)
         {
             List<string> factorList = new List<string>();
@@ -79,6 +105,16 @@ namespace mainSource
         {
             ConsoleEditor();
             bool returnTo; // variable for checking if "space" is pressed
+
+            /*TO DO
+            Middle School Math Book
+            Make a Function that finds the Greatest Factor
+            Make a Function that finds the Common Factors between 2 ints
+            Make a Function that finds the LCM
+            Make a Function that finds the GCM 
+
+            */
+
         //WORKING SPACE=======================================================================
 
             string[] factorArray = FindFactors(87);
@@ -87,11 +123,10 @@ namespace mainSource
                 Console.WriteLine(factorArray[i]);
             }
 
-            Console.WriteLine("Repository Test From Laptop");
-            Console.WriteLine("Commit From Laptop");
+            Console.WriteLine(UnitRate(300,15));
+            Console.WriteLine(FindQuantity(8, 5, 19));
+        
 
-            Console.WriteLine("Repository Test from PC");
-            Console.WriteLine("Repository Test Complete");
             
         //WORKING SPACE=======================================================================
             end:
