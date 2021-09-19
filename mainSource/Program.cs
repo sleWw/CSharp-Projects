@@ -27,14 +27,34 @@ namespace mainSource
         } 
         public static double UnitRate (double firstNumber, double secondNumber)
         {
+            /*
+            A unit rate is defined as a ratio that compares the first quantity to one unit of the second quantity.
+             The two quantities being compared have different units.
+
+            Example: A Pottery Factory Produces 176 Pots in 8 Hours How many Pots do they make an Hour?
+            Formula: AmountOfItems / Unit (in this case hours)
+            176 / 8 = 22
+            the Rate is 22/1
+            so They make 22 Pots an Hour
+
+            */
             double result;
             result = firstNumber / secondNumber;
             return result;
         }
-        public static double UnitPrice (double price, double quantity)
+        public static double UnitPrice (double totalPrice, double quantity)
         {
+            /*
+            A unit price is the price for one item or measurement, such as a pound, a kilogram, or a pint,
+             which can be used to compare the same type of goods sold in varying weights and amounts
+
+            Example: 55 Bananas Cost $132 how much does one banana cost?
+            Formula TotalPrice / TotalItems
+            $132 / 55 = $2.4
+            Each banana cost $2.4
+            */
             double result;
-            result = price / quantity;
+            result = totalPrice / quantity;
             return result;
         }
         public static double FindQuantity(double firstNumurator, double firstDenominator, double secondDenominator)
@@ -116,7 +136,7 @@ namespace mainSource
             */
 
         //WORKING SPACE=======================================================================
-
+            
             string[] factorArray = FindFactors(87);
             for(int i = 0; i < factorArray.Length; i++)
             {
@@ -125,7 +145,7 @@ namespace mainSource
 
             Console.WriteLine(UnitRate(300,15));
             Console.WriteLine(FindQuantity(8, 5, 19));
-        
+                        
 
             
         //WORKING SPACE=======================================================================
